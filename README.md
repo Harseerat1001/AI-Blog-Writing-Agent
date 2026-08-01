@@ -162,30 +162,6 @@ streamlit run bwa_frontend.py
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-### Home Page
-
-```
-assets/home.png
-```
-
-### Blog Generation
-
-```
-assets/generation.png
-```
-
-### Markdown Preview
-
-```
-assets/preview.png
-```
-
----
-
 ## 👨‍💻 Author
 
 **Harseerat Kaur**
